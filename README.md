@@ -16,7 +16,7 @@
 
 ### :family_man_girl: 스터디 진행 방식
 
->매주 5문제를 풀고 업로드하고 리뷰합니다.
+>매주 5문제를 풀고 업로드하고 리뷰`(README.md)`합니다.
 
 
 
@@ -39,4 +39,16 @@
 > [leegw217](https://github.com/leegw217)
 
 
+
+### :family_man_girl: 일정표
+
+|                    |                           1                            |                            2                            |                         3                         |                              4                              |                            5                             |
+| :----------------: | :----------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------: | :---------------------------------------------------------: | :------------------------------------------------------: |
+| 1주차(08.10~08.14) |  [구슬 탈출 2](https://www.acmicpc.net/problem/13460)  |  [2048 (Easy)](https://www.acmicpc.net/problem/12100)   |    [뱀](https://www.acmicpc.net/problem/3190)     |     [시험 감독](https://www.acmicpc.net/problem/13458)      |  [주사위 굴리기](https://www.acmicpc.net/problem/14499)  |
+| 2주차(08.17~08.21) |  [테트로미노](https://www.acmicpc.net/problem/14500)   |      [퇴사](https://www.acmicpc.net/problem/14501)      |  [연구소](https://www.acmicpc.net/problem/14502)  |    [로봇 청소기](https://www.acmicpc.net/problem/14503)     | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |
+| 3주차(08.24~08.28) | [스타트와 링크](https://www.acmicpc.net/problem/14889) |     [경사로](https://www.acmicpc.net/problem/14890)     | [톱니바퀴](https://www.acmicpc.net/problem/14891) |        [감시](https://www.acmicpc.net/problem/15683)        |   [사다리 조작](https://www.acmicpc.net/problem/15684)   |
+| 4주차(08.31~09.04) |  [드래곤 커브](https://www.acmicpc.net/problem/15685)  |   [치킨 배달](https://www.acmicpc.net/problem/15686)    |   [큐빙](https://www.acmicpc.net/problem/5373)    |     [인구 이동](https://www.acmicpc.net/problem/16234)      |   [나무 재테크](https://www.acmicpc.net/problem/16235)   |
+| 5주차(09.07~09.11) |   [아기 상어](https://www.acmicpc.net/problem/16236)   | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) |  [낚시왕](https://www.acmicpc.net/problem/17143)  | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) |    [연구소 3](https://www.acmicpc.net/problem/17142)     |
+|                    |                                                        |                                                         |                                                   |                                                             |                                                          |
+|                    |                                                        |                                                         |                                                   |                                                             |                                                          |
 
