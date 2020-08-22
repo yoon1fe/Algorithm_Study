@@ -2,7 +2,7 @@
 
 ###  :robot: 분류
 
-> 조합
+> 순열
 >
 > 완전 탐색
 
@@ -50,7 +50,7 @@ public class Main{
 		min = Math.min(min, result);
 	}
 	
-	static void makeComb(int cnt) {
+	static void perm(int cnt) {
 		if(cnt == N-1) {
 			calc();
 			return;
@@ -60,7 +60,7 @@ public class Main{
 			if(isSelected[i] < 1) continue;
 			isSelected[i]--;
 			op[cnt] = i;
-			makeComb(cnt+1);
+			perm(cnt+1);
 			isSelected[i]++;
 		}
 	}
@@ -77,7 +77,7 @@ public class Main{
 		for(int i = 0; i < 4; i++) inputOp[i] = Integer.parseInt(st.nextToken());
 		isSelected = inputOp.clone();
 		
-		makeComb(0);
+		perm(0);
 				
 		System.out.println(max + "\n" + min);
 	}
@@ -90,9 +90,9 @@ public class Main{
 
 입력으로 주어진 연산자들을 갖고 식을 만들어서 그 식의 최대/최솟값을 구하는 문제입니다.
 
-완전 탐색으로 조합을 다 만들어서 풀어도 되고, 백트래킹으로 풀어도 됩니다.
+완전 탐색으로 순열을 다 만들어서 풀어도 되고, 백트래킹으로 풀어도 됩니다.
 
-조합을 이용해서 가능한 연산자들의 조합을 모두 만들고나서 이를 토대로 계산하는 방식으로 풀었습니다.
+순을 이용해서 가능한 연산자들의 조합을 모두 만들고나서 이를 토대로 계산하는 방식으로 풀었습니다.
 
 동일한 연산자가 여러 개가 있을 수 있기 때문에 isSelected 배열을 boolean이 아니라 남은 연산자 개수로 생각하고 써먹어야 합니다.
 
