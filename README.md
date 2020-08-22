@@ -42,15 +42,23 @@
 
 ### :family_man_girl: 일정표
 
-> 삼성 SW 역량테스트 기출문제 :fast_forward: Programmers 카카오 기출문제 :fast_forward: SWEA 모의 SW 역량테스트
+|                    |                              1                               |                              2                               |                              3                               |                              4                               |                              5                               |
+| :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 1주차(08.10~08.14) |     [구슬 탈출 2](https://www.acmicpc.net/problem/13460)     |     [2048 (Easy)](https://www.acmicpc.net/problem/12100)     |          [뱀](https://www.acmicpc.net/problem/3190)          |      [시험 감독](https://www.acmicpc.net/problem/13458)      |    [주사위 굴리기](https://www.acmicpc.net/problem/14499)    |
+| 2주차(08.17~08.21) |     [테트로미노](https://www.acmicpc.net/problem/14500)      |        [퇴사](https://www.acmicpc.net/problem/14501)         |       [연구소](https://www.acmicpc.net/problem/14502)        |     [로봇 청소기](https://www.acmicpc.net/problem/14503)     |   [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)   |
+| 3주차(08.24~08.28) | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) | [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) |
+| 4주차(08.31~09.04) | [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) | [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) |
+| 5주차(09.07~09.11) | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) | [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260) | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) |
+| 6주차(09.14~09.18) | [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) | [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892) | [매칭 점수](https://programmers.co.kr/learn/courses/30/lessons/42893) | [블록 게임](https://programmers.co.kr/learn/courses/30/lessons/42894) | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) |
+| 7주차(09.21~09.25) | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) | [호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063) | [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) |
 
-|                    |                           1                            |                            2                            |                         3                         |                              4                              |                            5                             |
-| :----------------: | :----------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------: | :---------------------------------------------------------: | :------------------------------------------------------: |
-| 1주차(08.10~08.14) |  [구슬 탈출 2](https://www.acmicpc.net/problem/13460)  |  [2048 (Easy)](https://www.acmicpc.net/problem/12100)   |    [뱀](https://www.acmicpc.net/problem/3190)     |     [시험 감독](https://www.acmicpc.net/problem/13458)      |  [주사위 굴리기](https://www.acmicpc.net/problem/14499)  |
-| 2주차(08.17~08.21) |  [테트로미노](https://www.acmicpc.net/problem/14500)   |      [퇴사](https://www.acmicpc.net/problem/14501)      |  [연구소](https://www.acmicpc.net/problem/14502)  |    [로봇 청소기](https://www.acmicpc.net/problem/14503)     | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |
-| 3주차(08.24~08.28) | [스타트와 링크](https://www.acmicpc.net/problem/14889) |     [경사로](https://www.acmicpc.net/problem/14890)     | [톱니바퀴](https://www.acmicpc.net/problem/14891) |        [감시](https://www.acmicpc.net/problem/15683)        |   [사다리 조작](https://www.acmicpc.net/problem/15684)   |
-| 4주차(08.31~09.04) |  [드래곤 커브](https://www.acmicpc.net/problem/15685)  |   [치킨 배달](https://www.acmicpc.net/problem/15686)    |   [큐빙](https://www.acmicpc.net/problem/5373)    |     [인구 이동](https://www.acmicpc.net/problem/16234)      |   [나무 재테크](https://www.acmicpc.net/problem/16235)   |
-| 5주차(09.07~09.11) |   [아기 상어](https://www.acmicpc.net/problem/16236)   | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) |  [낚시왕](https://www.acmicpc.net/problem/17143)  | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) |    [연구소 3](https://www.acmicpc.net/problem/17142)     |
-|                    |                                                        |                                                         |                                                   |                                                             |                                                          |
-|                    |                                                        |                                                         |                                                   |                                                             |                                                          |
+
+
+
+
+### :family_man_girl: 채용 공고
+
+>[2021 KAKAO BLIND RECRUITMENT](https://www.welcomekakao.com/competitions/317/2021-kakao-blind-recruitment) - 2020.08.24~09.07
+>
+>코딩테스트 일정: 예선 - 9월 12일 본선 - 9월 26일
 
