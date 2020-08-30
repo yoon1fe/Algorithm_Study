@@ -54,6 +54,18 @@
 
 
 
+### :family_man_girl: 추천 문제
+
+[괄호 제거](https://www.acmicpc.net/problem/2800)
+
+[창업](https://www.acmicpc.net/problem/16890)
+
+[소수&팰린드롬](https://www.acmicpc.net/problem/1747)
+
+[제국](https://www.acmicpc.net/problem/16402)
+
+[제자리 멀리뛰기](https://www.acmicpc.net/problem/6209)
+
 
 
 ### :family_man_girl: 채용 공고
@@ -61,4 +73,11 @@
 >[2021 KAKAO BLIND RECRUITMENT](https://www.welcomekakao.com/competitions/317/2021-kakao-blind-recruitment) - 2020.08.24~09.07
 >
 >코딩테스트 일정: 예선 - 9월 12일 본선 - 9월 26일
+>
+>[2020년 하반기 SW개발 신입 LINER 공개채용](https://recruit.linepluscorp.com/lineplus/career/detail/20004424?classId=&entTypeCd=&tag=&page=) - 2020.08.24~09.07
+>
+>![](https://recruit.linepluscorp.com/common/file/downloadFile.nhn?fileId=y-VfatKJXAmIG4gdcQ2LBg==)
 
+
+
+### **모두 화이팅!!!**
