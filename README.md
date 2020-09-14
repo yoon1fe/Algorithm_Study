@@ -50,7 +50,8 @@
 | 4주차(08.31~09.04) | [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) | [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) |
 | 5주차(09.07~09.11) | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) | [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260) | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) |
 | 6주차(09.14~09.18) | [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) | [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892) | [매칭 점수](https://programmers.co.kr/learn/courses/30/lessons/42893) | [블록 게임](https://programmers.co.kr/learn/courses/30/lessons/42894) | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) |
-| 7주차(09.21~09.25) | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) | [호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063) | [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) |
+| 7주차(09.21~09.25) |    [스타트와 링크](https://www.acmicpc.net/problem/14889)    |       [경사로](https://www.acmicpc.net/problem/14890)        |      [톱니 바퀴](https://www.acmicpc.net/problem/14891)      |        [감시](https://www.acmicpc.net/problem/15683)         |     [사다리 조작](https://www.acmicpc.net/problem/15684)     |
+| 8주차(09.28~10.02) |     [드래곤 커브](https://www.acmicpc.net/problem/15685)     |      [치킨 배달](https://www.acmicpc.net/problem/15686)      |         [큐빙](https://www.acmicpc.net/problem/5373)         |      [인구 이동](https://www.acmicpc.net/problem/16234)      |     [나무 재테크](https://www.acmicpc.net/problem/16235)     |
 
 
 
@@ -70,13 +71,13 @@
 
 ### :family_man_girl: 채용 공고
 
->[2021 KAKAO BLIND RECRUITMENT](https://www.welcomekakao.com/competitions/317/2021-kakao-blind-recruitment) - 2020.08.24~09.07
+> [2020 네이버 신입 개발자 공개 채용 (~09/18 18:00)](https://www.naver-recruit2020.com/)
 >
->코딩테스트 일정: 예선 - 9월 12일 본선 - 9월 26일
+> [2020 KT 대졸 인턴 채용 (~09/20 16:00)](https://recruit.kt.com/apply/notifyView?seq=35575)
 >
->[2020년 하반기 SW개발 신입 LINER 공개채용](https://recruit.linepluscorp.com/lineplus/career/detail/20004424?classId=&entTypeCd=&tag=&page=) - 2020.08.24~09.07
+> [대구은행 신입행원 채용 (~09/22 18:00)](https://dgb.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=35666)
 >
->![](https://recruit.linepluscorp.com/common/file/downloadFile.nhn?fileId=y-VfatKJXAmIG4gdcQ2LBg==)
+> [2020년 하반기 우리은행 신입행원 채용 (~09:23 18:00)](https://wooribank.incruit.com/hire/viewhire.asp?projectid=104)
 
 
 
