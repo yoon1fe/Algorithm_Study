@@ -69,7 +69,7 @@ public class Main {
 }
 ```
 
-### 
+
 
 ### :soccer: 풀이 방법
 
