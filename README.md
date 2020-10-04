@@ -53,8 +53,8 @@
 | 7주차(09.21~09.25)  |    [스타트와 링크](https://www.acmicpc.net/problem/14889)    |       [경사로](https://www.acmicpc.net/problem/14890)        |      [톱니 바퀴](https://www.acmicpc.net/problem/14891)      |        [감시](https://www.acmicpc.net/problem/15683)         |     [사다리 조작](https://www.acmicpc.net/problem/15684)     |
 | 8주차(09.28~10.02)  |     [드래곤 커브](https://www.acmicpc.net/problem/15685)     |      [치킨 배달](https://www.acmicpc.net/problem/15686)      |         [큐빙](https://www.acmicpc.net/problem/5373)         |      [인구 이동](https://www.acmicpc.net/problem/16234)      |     [나무 재테크](https://www.acmicpc.net/problem/16235)     |
 | 9주차(10.05~10.09)  |      [아기 상어](https://www.acmicpc.net/problem/16236)      |   [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)    |       [낚시왕](https://www.acmicpc.net/problem/17143)        | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)  |      [연구소 3](https://www.acmicpc.net/problem/17142)       |
-| 10주차(10.05~10.09) |    [게리맨더링 2](https://www.acmicpc.net/problem/17779)     |    [새로운 게임 2](https://www.acmicpc.net/problem/17837)    |     [원판 돌리기](https://www.acmicpc.net/problem/17822)     |    [주사위 윷놀이](https://www.acmicpc.net/problem/17825)    |   [모노미노도미노](https://www.acmicpc.net/problem/19235)    |
-
+| 10주차(10.12~10.16) |    [게리맨더링 2](https://www.acmicpc.net/problem/17779)     |    [새로운 게임 2](https://www.acmicpc.net/problem/17837)    |     [원판 돌리기](https://www.acmicpc.net/problem/17822)     |    [주사위 윷놀이](https://www.acmicpc.net/problem/17825)    |   [모노미노도미노](https://www.acmicpc.net/problem/19235)    |
+| 11주차(10.19~10.23) |    [청소년 상어](https://www.acmicpc.net/problem/19236)     |    [어른 상어](https://www.acmicpc.net/problem/19237)    |     [스타트 택시](https://www.acmicpc.net/problem/19238)     |    [⚾](https://www.acmicpc.net/problem/17281)    |   [Puyo Puyo](https://www.acmicpc.net/problem/11559)    | 
 
 
 
