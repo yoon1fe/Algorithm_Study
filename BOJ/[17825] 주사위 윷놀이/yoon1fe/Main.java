@@ -2,89 +2,86 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-	static int N;
-	static int total;
-	static int[][] map;
-	static int[] dy = {1, -1, 0, 0};
-	static int[] dx = {0, 0, 1, -1};
-	
-	public static void main(String[] args) throws IOException {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		int answer = Integer.MAX_VALUE;
-		N = Integer.parseInt(br.readLine());
-		map = new int[N + 1][N + 1];
-		
-		for(int i = 1; i <= N; i++) {
-			StringTokenizer st = new StringTokenizer(br.readLine(), " ");
-			for(int j = 1; j <= N; j++) {
-				total += map[i][j] = Integer.parseInt(st.nextToken());
-			}
-		}
-		
-		for(int i = 1; i <= N; i++) {
-			for(int j = 2; j < N; j++) {
-				int x = i, y = j;
-				for(int d1 = 1; d1 < N; d1++) {
-					for(int d2 = 1; d2 < N; d2++) {
-						if(x + d1 + d2 > N) continue;
-						if(0 >= y - d1 || y + d2 > N) continue;
-						answer = Math.min(answer, getPopulation(x, y, d1, d2));
-					}
-				}
-			}
-		}
-		
-		System.out.println(answer);
-	}
+    static class Dir {
+        int y, x;
 
-	public static int getPopulation(int x, int y, int d1, int d2) {
-		int[] area = new int[5];
-		boolean[][] boundary = new boolean[N+1][N+1];
-		
-		for(int i = 0; i <= d1; i++){
-			boundary[x+i][y-i] = true;
-		}
-		for(int i = 0; i <= d2; i++){
-			boundary[x+i][y+i] = true;
-		}
-		for(int i = 0; i <= d2; i++){
-			boundary[x+d1+i][y-d1+i] = true;
-		}
-		for(int i = 0; i <= d1; i++){
-			boundary[x+d2+i][y+d2-i] = true;
-		}
-		
-		// 1번 구역
-		for(int i = 1; i < x + d1; i++) {
-			for(int j = 1; j <= y; j++) {
-				if(boundary[i][j]) break;
-				area[0] += map[i][j];
-			}
-		}
-		// 2번 구역
-		for(int i = 1; i <= x + d2; i++) {
-			for(int j = N; j > y; j--) {
-				if(boundary[i][j]) break;
-				area[1] += map[i][j];
-			}
-		}
-		// 3번 구역
-		for(int i = x + d1; i <= N; i++) {
-			for(int j = 1; j < y - d1 + d2; j++) {
-				if(boundary[i][j]) break;
-				area[2] += map[i][j];
-			}
-		}
-		// 4번 구역
-		for(int i = x + d2 + 1; i <= N; i++) {
-			for(int j = N; j >= y - d1 + d2; j--) {
-				if(boundary[i][j]) break;
-				area[3] += map[i][j];
-			}
-		}
-		area[4] = total - Arrays.stream(area).sum();
-		
-		return Arrays.stream(area).max().getAsInt() - Arrays.stream(area).min().getAsInt();
-	}
-	
+        Dir(int y, int x) {
+            this.y = y; this.x = x;
+        }
+    }
+
+    static int N, K;
+    static Map<Integer, Integer> pieceDir = new HashMap<>();    // 체스 말의 이동 방향
+    static List<Dir> pieceList = new ArrayList<>();                // 체스 말 list
+    static int[][] board;                                        // 체스 판
+    static StringBuilder[][] map;                                // 체스 말들 위치
+    static int[] dy = { 0, 0, 0, -1, 1 };
+    static int[] dx = { 0, 1, -1, 0, 0 };
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+        N = Integer.parseInt(st.nextToken());
+        K = Integer.parseInt(st.nextToken());
+        board = new int[N][N];
+        map = new StringBuilder[N][N];
+
+        for (int i = 0; i < N; i++) {
+            st = new StringTokenizer(br.readLine());
+            for (int j = 0; j < N; j++) {
+                board[i][j] = Integer.parseInt(st.nextToken());
+                map[i][j] = new StringBuilder();
+            }
+        }
+
+        for (int i = 0; i < K; i++) {
+            st = new StringTokenizer(br.readLine());
+            int y = Integer.parseInt(st.nextToken()) - 1;
+            int x = Integer.parseInt(st.nextToken()) - 1;
+            int d = Integer.parseInt(st.nextToken());
+            map[y][x].append(i);
+            pieceDir.put(i, d);
+            pieceList.add(new Dir(y, x));
+        }
+
+        System.out.println(move());
+    }
+
+    public static boolean isIn(Dir c) {
+        if (0 <= c.y && c.y < N && 0 <= c.x && c.x < N) return true;
+        else return false;
+    }
+
+    public static int move() {
+        int ans = 1;
+
+        outer:
+        for (ans = 1; ans <= 1000; ans++) {
+            for (int i = 0; i < pieceList.size(); i++) {
+                Dir cur = pieceList.get(i);
+                int dir = pieceDir.get(i);
+
+                Dir next = new Dir(cur.y + dy[dir], cur.x + dx[dir]);
+
+                if (!isIn(next) || board[next.y][next.x] == 2) {
+                    dir = dir == 1 ? 2 : (dir == 2 ? 1 : (dir == 3 ? 4 : 3));
+                    next.y = cur.y + dy[dir]; next.x = cur.x + dx[dir];
+                    pieceDir.replace(i, dir);
+                    if (!isIn(next) || board[next.y][next.x] == 2) continue;
+                }
+
+                int idx = map[cur.y][cur.x].indexOf(i+"");
+                for(int j = idx; j < map[cur.y][cur.x].length(); j++) pieceList.set(map[cur.y][cur.x].charAt(j) - '0', next); 
+
+                if (board[next.y][next.x] == 0) map[next.y][next.x].append(map[cur.y][cur.x].substring(idx));
+                else map[next.y][next.x].append(new StringBuilder(map[cur.y][cur.x].substring(idx)).reverse());
+
+                map[cur.y][cur.x].delete(idx, map[cur.y][cur.x].length());
+
+                if(map[next.y][next.x].length() >= 4) break outer;
+            }
+        }
+
+        return ans > 1000 ? -1 : ans;
+    }
 }
