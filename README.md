@@ -42,6 +42,20 @@
 
 ### :family_man_girl: 일정표
 
+> 삼성 SW 역량 테스트 기출 -> 카카오 기출
+>
+> 이분 탐색
+>
+> 투 포인터
+>
+> 위상 정렬
+>
+> 우선 순위 큐
+>
+> 기타 등등 ...
+
+
+
 |                     |                              1                               |                              2                               |                              3                               |                              4                               |                              5                               |
 | :-----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 1주차(08.10~08.14)  |     [구슬 탈출 2](https://www.acmicpc.net/problem/13460)     |     [2048 (Easy)](https://www.acmicpc.net/problem/12100)     |          [뱀](https://www.acmicpc.net/problem/3190)          |      [시험 감독](https://www.acmicpc.net/problem/13458)      |    [주사위 굴리기](https://www.acmicpc.net/problem/14499)    |
@@ -54,22 +68,12 @@
 | 8주차(09.28~10.02)  |     [드래곤 커브](https://www.acmicpc.net/problem/15685)     |      [치킨 배달](https://www.acmicpc.net/problem/15686)      |         [큐빙](https://www.acmicpc.net/problem/5373)         |      [인구 이동](https://www.acmicpc.net/problem/16234)      |     [나무 재테크](https://www.acmicpc.net/problem/16235)     |
 | 9주차(10.05~10.09)  |      [아기 상어](https://www.acmicpc.net/problem/16236)      |   [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)    |       [낚시왕](https://www.acmicpc.net/problem/17143)        | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)  |      [연구소 3](https://www.acmicpc.net/problem/17142)       |
 | 10주차(10.12~10.16) |    [게리맨더링 2](https://www.acmicpc.net/problem/17779)     |    [새로운 게임 2](https://www.acmicpc.net/problem/17837)    |     [원판 돌리기](https://www.acmicpc.net/problem/17822)     |    [주사위 윷놀이](https://www.acmicpc.net/problem/17825)    |   [모노미노도미노](https://www.acmicpc.net/problem/19235)    |
-| 11주차(10.19~10.23) |    [청소년 상어](https://www.acmicpc.net/problem/19236)     |    [어른 상어](https://www.acmicpc.net/problem/19237)    |     [스타트 택시](https://www.acmicpc.net/problem/19238)     |    [⚾](https://www.acmicpc.net/problem/17281)    |   [Puyo Puyo](https://www.acmicpc.net/problem/11559)    | 
+| 11주차(10.19~10.23) |     [청소년 상어](https://www.acmicpc.net/problem/19236)     |      [어른 상어](https://www.acmicpc.net/problem/19237)      |     [스타트 택시](https://www.acmicpc.net/problem/19238)     |          [⚾](https://www.acmicpc.net/problem/17281)          |      [Puyo Puyo](https://www.acmicpc.net/problem/11559)      |
+| 12주차(10.26~10.30) |    [괄호 추가하기](https://www.acmicpc.net/problem/16637)    |   [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   |    [색종이 붙이기](https://www.acmicpc.net/problem/17136)    | [Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954) |    [배열 돌리기 4](https://www.acmicpc.net/problem/17406)    |
+| 13주차(11.02~11.06) |     [게리맨더링](https://www.acmicpc.net/problem/17471)      |    [다리 만들기 2](https://www.acmicpc.net/problem/17472)    | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) |    [소수의 연속합](https://www.acmicpc.net/problem/1644)     |      [ACM Craft](https://www.acmicpc.net/problem/1005)       |
+| 14주차(11.09~11.13) |       [알고스팟](https://www.acmicpc.net/problem/1261)       |       [K번째 수](https://www.acmicpc.net/problem/1300)       |   [합이 0인 네 정수](https://www.acmicpc.net/problem/7453)   |      [게임 개발](https://www.acmicpc.net/problem/1516)       |   [가운데를 말해요](https://www.acmicpc.net/problem/1655)    |
 
 
-
-
-### :family_man_girl: 추천 문제
-
-[괄호 제거](https://www.acmicpc.net/problem/2800)
-
-[창업](https://www.acmicpc.net/problem/16890)
-
-[소수&팰린드롬](https://www.acmicpc.net/problem/1747)
-
-[제국](https://www.acmicpc.net/problem/16402)
-
-[제자리 멀리뛰기](https://www.acmicpc.net/problem/6209)
 
 
 
