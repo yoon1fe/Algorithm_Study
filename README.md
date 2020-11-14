@@ -52,6 +52,8 @@
 >
 > 우선 순위 큐
 >
+> 백트래킹
+>
 > 기타 등등 ...
 
 
@@ -72,6 +74,8 @@
 | 12주차(10.26~10.30) |    [괄호 추가하기](https://www.acmicpc.net/problem/16637)    |   [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   |    [색종이 붙이기](https://www.acmicpc.net/problem/17136)    | [Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954) |    [배열 돌리기 4](https://www.acmicpc.net/problem/17406)    |
 | 13주차(11.02~11.06) |     [게리맨더링](https://www.acmicpc.net/problem/17471)      |    [다리 만들기 2](https://www.acmicpc.net/problem/17472)    | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) |    [소수의 연속합](https://www.acmicpc.net/problem/1644)     |      [ACM Craft](https://www.acmicpc.net/problem/1005)       |
 | 14주차(11.09~11.13) |       [알고스팟](https://www.acmicpc.net/problem/1261)       |       [K번째 수](https://www.acmicpc.net/problem/1300)       |   [합이 0인 네 정수](https://www.acmicpc.net/problem/7453)   |      [게임 개발](https://www.acmicpc.net/problem/1516)       |   [가운데를 말해요](https://www.acmicpc.net/problem/1655)    |
+| 15주차(11.16~11.20) | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) |       [N-Queen](https://www.acmicpc.net/problem/9663)        |   [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)   |       [바이러스](https://www.acmicpc.net/problem/2606)       |
+| 16주차(11.23~11.27) |    [네트워크 연결](https://www.acmicpc.net/problem/1922)     |    [소문난 칠공주](https://www.acmicpc.net/problem/1941)     |         [비숍](https://www.acmicpc.net/problem/1799)         |        [부등호](https://www.acmicpc.net/problem/2529)        |     [신기한 소수](https://www.acmicpc.net/problem/2023)      |
 
 
 
