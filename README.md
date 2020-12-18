@@ -58,6 +58,10 @@
 >
 > MST / Shortest Path
 >
+> 세그먼트 트리
+>
+> DP
+>
 > 기타 등등 ...
 
 
@@ -84,7 +88,9 @@
 | 18주차(12.07~12.11) | [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685) |
 | 19주차(12.14~12.18) | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | [N진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) |      [플로이드](https://www.acmicpc.net/problem/11404)       |    [휴게소 세우기](https://www.acmicpc.net/problem/1477)     |    [중앙값 구하기](https://www.acmicpc.net/problem/2696)     |
 | 20주차(12.21~12.25) | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) | [호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063) | [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) | [카카오 프렌즈 컬러링 북](https://programmers.co.kr/learn/courses/30/lessons/1829) |
-| 21주차(12.28~01.01) | [브라이언의 고민](https://programmers.co.kr/learn/courses/30/lessons/1830) | [보행자 천국](https://programmers.co.kr/learn/courses/30/lessons/1832) | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) | [리틀 프렌즈 사천성](https://programmers.co.kr/learn/courses/30/lessons/1836) | [GPS](https://programmers.co.kr/learn/courses/30/lessons/1837) |
+| 21주차(12.28~01.01) |    [구간 합 구하기](https://www.acmicpc.net/problem/2042)    |       [토너먼트](https://www.acmicpc.net/problem/1057)       |   [최솟값과 최댓값](https://www.acmicpc.net/problem/2357)    |   [팰린드롬 만들기](https://www.acmicpc.net/problem/1254)    |      [연구소 2](https://www.acmicpc.net/problem/17141)       |
+| 22주차(01.04~01.08) |        [회문](https://www.acmicpc.net/problem/17609)         |       [최솟값](https://www.acmicpc.net/problem/10868)        |      [설탕 배달](https://www.acmicpc.net/problem/2839)       |   [구간 곱 구하기](https://www.acmicpc.net/problem/11505)    |      [1로 만들기](https://www.acmicpc.net/problem/1463)      |
+| 23주차(01.11~01.15) |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |    [피보나치 함수](https://www.acmicpc.net/problem/1003)     |     [숨바꼭질 2](https://www.acmicpc.net/problem/12851)      |     [2×n 타일링](https://www.acmicpc.net/problem/11726)      |      [이모티콘](https://www.acmicpc.net/problem/14226)       |
 
 
 
