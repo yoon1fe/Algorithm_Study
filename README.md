@@ -65,8 +65,7 @@
 > 기타 등등 ...
 
 
-
-|                     |                              1                               |                              2                               |                              3                               |                              4                               |                              5                               |
+|                     |                              월                               |                              화                               |                              수                               |                              목                               |                              금                               |
 | :-----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 1주차(08.10~08.14)  |     [구슬 탈출 2](https://www.acmicpc.net/problem/13460)     |     [2048 (Easy)](https://www.acmicpc.net/problem/12100)     |          [뱀](https://www.acmicpc.net/problem/3190)          |      [시험 감독](https://www.acmicpc.net/problem/13458)      |    [주사위 굴리기](https://www.acmicpc.net/problem/14499)    |
 | 2주차(08.17~08.21)  |     [테트로미노](https://www.acmicpc.net/problem/14500)      |        [퇴사](https://www.acmicpc.net/problem/14501)         |       [연구소](https://www.acmicpc.net/problem/14502)        |     [로봇 청소기](https://www.acmicpc.net/problem/14503)     |   [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)   |
@@ -91,11 +90,10 @@
 | 21주차(12.28~01.01) |    [구간 합 구하기](https://www.acmicpc.net/problem/2042)    |       [토너먼트](https://www.acmicpc.net/problem/1057)       |   [최솟값과 최댓값](https://www.acmicpc.net/problem/2357)    |   [팰린드롬 만들기](https://www.acmicpc.net/problem/1254)    |      [연구소 2](https://www.acmicpc.net/problem/17141)       |
 | 22주차(01.04~01.08) |        [회문](https://www.acmicpc.net/problem/17609)         |       [최솟값](https://www.acmicpc.net/problem/10868)        |      [설탕 배달](https://www.acmicpc.net/problem/2839)       |   [구간 곱 구하기](https://www.acmicpc.net/problem/11505)    |      [1로 만들기](https://www.acmicpc.net/problem/1463)      |
 | 23주차(01.11~01.15) |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |    [피보나치 함수](https://www.acmicpc.net/problem/1003)     |     [숨바꼭질 2](https://www.acmicpc.net/problem/12851)      |     [2×n 타일링](https://www.acmicpc.net/problem/11726)      |      [이모티콘](https://www.acmicpc.net/problem/14226)       |
+| 24주차(01.18~01.22) |    [123 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)    |    [용액](https://www.acmicpc.net/problem/2467)     |     [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)      |     [RGB거리](https://www.acmicpc.net/problem/1149)      |      [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)       |
 
 
 
-
-
-
+<br>
 
 ### **모두 화이팅!!!**
