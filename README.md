@@ -91,6 +91,7 @@
 | 22주차(01.04~01.08) |        [회문](https://www.acmicpc.net/problem/17609)         |       [최솟값](https://www.acmicpc.net/problem/10868)        |      [설탕 배달](https://www.acmicpc.net/problem/2839)       |   [구간 곱 구하기](https://www.acmicpc.net/problem/11505)    |      [1로 만들기](https://www.acmicpc.net/problem/1463)      |
 | 23주차(01.11~01.15) |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |    [피보나치 함수](https://www.acmicpc.net/problem/1003)     |     [숨바꼭질 2](https://www.acmicpc.net/problem/12851)      |     [2×n 타일링](https://www.acmicpc.net/problem/11726)      |      [이모티콘](https://www.acmicpc.net/problem/14226)       |
 | 24주차(01.18~01.22) |    [123 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)    |    [용액](https://www.acmicpc.net/problem/2467)     |     [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)      |     [RGB거리](https://www.acmicpc.net/problem/1149)      |      [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)       |
+| 25주차(01.25~01.29) |    [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)    |    [최단경로](https://www.acmicpc.net/problem/1753)     |     [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)      |     [LCS](https://www.acmicpc.net/problem/9251)      |      [랜선 자르기](https://www.acmicpc.net/problem/1654)       |
 
 
 
