@@ -3,17 +3,17 @@ import java.util.*;
 
 public class Main {
     static final int INF = Integer.MAX_VALUE;
-    static class Edge implements Comparable<Edge> {
+    static class Node implements Comparable<Node> {
         int vertex;
         int weight;
 
-        Edge(int v, int w){
+        Node(int v, int w){
             this.vertex = v;
             this.weight = w;
         }
 
         @Override
-        public int compareTo(Edge o) {
+        public int compareTo(Node o) {
             return Integer.compare(this.weight, o.weight);
         }
     }
@@ -28,7 +28,7 @@ public class Main {
 
         int start = Integer.parseInt(br.readLine()) - 1;
         int[] dist = new int[N];
-        ArrayList<Edge>[] graph = new ArrayList[N];
+        ArrayList<Node>[] graph = new ArrayList[N];
         for (int i = 0; i < N; i++)
             graph[i] = new ArrayList<>();
         Arrays.fill(dist, INF);
@@ -39,23 +39,23 @@ public class Main {
             int u = Integer.parseInt(st.nextToken()) - 1;
             int v = Integer.parseInt(st.nextToken()) - 1;
             int w = Integer.parseInt(st.nextToken());
-            graph[u].add(new Edge(v, w));
+            graph[u].add(new Node(v, w));
         }
 
-        PriorityQueue<Edge> pq = new PriorityQueue<>();
-        pq.offer(new Edge(start, 0));
+        PriorityQueue<Node> pq = new PriorityQueue<>();
+        pq.offer(new Node(start, 0));
 
         while (!pq.isEmpty()) {
-            Edge cur = pq.poll();
+            Node cur = pq.poll();
             if(dist[cur.vertex] < cur.weight)
                 continue;
 
             for(int i=0; i<graph[cur.vertex].size(); i++){
-                Edge next = graph[cur.vertex].get(i);
+                Node next = graph[cur.vertex].get(i);
                 int nextDist = cur.weight + next.weight;
                 if(nextDist < dist[next.vertex]){
                     dist[next.vertex] = nextDist;
-                    pq.offer(new Edge(next.vertex, nextDist));
+                    pq.offer(new Node(next.vertex, nextDist));
                 }
             }
         }
