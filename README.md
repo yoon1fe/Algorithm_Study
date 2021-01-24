@@ -93,6 +93,7 @@
 | 24주차(01.18~01.22) |    [123 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)    |    [용액](https://www.acmicpc.net/problem/2467)     |     [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)      |     [RGB거리](https://www.acmicpc.net/problem/1149)      |      [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)       |
 | 25주차(01.25~01.29) |    [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)    |    [최단경로](https://www.acmicpc.net/problem/1753)     |     [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)      |     [LCS](https://www.acmicpc.net/problem/9251)      |      [랜선 자르기](https://www.acmicpc.net/problem/1654)       |
 | 26주차(02.01~02.05) |    [열쇠](https://www.acmicpc.net/problem/9328)    |    [기지국설치](https://programmers.co.kr/learn/courses/30/lessons/12979)     |     [로봇조종하기](https://www.acmicpc.net/problem/2169)      |     [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)      |      [책 나눠주기](https://www.acmicpc.net/problem/9576)       |
+| 27주차(02.08~02.12) |    [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)    |    [제곱ㄴㄴ수](https://www.acmicpc.net/problem/1016)     |     [방문길이](https://programmers.co.kr/learn/courses/30/lessons/49994)      |     [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)      |      [배달](https://programmers.co.kr/learn/courses/30/lessons/12978)       |
 
 <br>
 
