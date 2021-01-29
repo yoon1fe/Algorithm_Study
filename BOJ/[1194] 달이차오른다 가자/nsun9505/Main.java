@@ -79,7 +79,6 @@ public class Main {
             System.out.println(-1);
         else
             System.out.println(ans);
-
     }
 
     public static int keyChar2Int(char key){
