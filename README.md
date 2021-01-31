@@ -94,7 +94,7 @@
 | 25주차(01.25~01.29) |    [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)    |    [최단경로](https://www.acmicpc.net/problem/1753)     |     [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)      |     [LCS](https://www.acmicpc.net/problem/9251)      |      [랜선 자르기](https://www.acmicpc.net/problem/1654)       |
 | 26주차(02.01~02.05) |    [열쇠](https://www.acmicpc.net/problem/9328)    |    [기지국설치](https://programmers.co.kr/learn/courses/30/lessons/12979)     |     [로봇조종하기](https://www.acmicpc.net/problem/2169)      |     [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)      |      [책 나눠주기](https://www.acmicpc.net/problem/9576)       |
 | 27주차(02.08~02.12) |    [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)    |    [제곱ㄴㄴ수](https://www.acmicpc.net/problem/1016)     |     [방문길이](https://programmers.co.kr/learn/courses/30/lessons/49994)      |     [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)      |      [배달](https://programmers.co.kr/learn/courses/30/lessons/12978)       |
-
+| 28주차(02.15~02.19) |    [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)    |    [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412)     |     [돌던지기](https://www.acmicpc.net/problem/3025)      |     [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)      |      [트리의 지름](https://www.acmicpc.net/problem/1967)       |
 <br>
 
 ### **모두 화이팅!!!**
