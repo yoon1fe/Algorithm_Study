@@ -154,3 +154,111 @@ query[i]에 해당하는 쿼리가 없을 경우는 ans에 0을 추가하고 다
 
 ## 후기
 후아 카카오 제발 붙고 싶다.
+
+### 문자열을 HashMap의 Key로 준 경우
+![image](https://user-images.githubusercontent.com/43994964/106551822-666f5880-6559-11eb-9ba6-c147fe26a5e4.png)
+
+### Query 객체를 HashMap의 key로 준 경우
+![image](https://user-images.githubusercontent.com/43994964/106551851-7a1abf00-6559-11eb-8955-c6c50bb07501.png)
+
+스트링이 연산을 덜 해서 더 빠를 줄 알았는데..?
+    - 더하는 연산때문에 느린건가?
+    - 내가 잘못 짠건가ㅠ
+
+<details>
+<summary> HashMap의 Key를 String으로 설정한 경우 </summary>
+<div markdown="1">
+
+```java
+import java.util.*;
+
+public class Solution {
+    static HashMap<String, ArrayList<Integer>> queries;
+    public int[] solution(String[] info, String[] query) {
+        int[] answer = {};
+        queries = new HashMap<>();
+        ArrayList<Integer> ans = new ArrayList<>();
+
+        for(int i=0; i<info.length; i++){
+            StringTokenizer st = new StringTokenizer(info[i]);
+            String lang = st.nextToken();
+            String job = st.nextToken();
+            String career = st.nextToken();
+            String food = st.nextToken();
+            int score = Integer.parseInt(st.nextToken());
+            addQuery(lang, job, career, food, score);
+        }
+
+        Set<String> keys = queries.keySet();
+        for(String key : keys){
+            ArrayList<Integer> list = queries.get(key);
+            Collections.sort(list);
+        }
+
+        for(int i=0; i<query.length; i++){
+            StringTokenizer st = new StringTokenizer(query[i], " ");
+            int queryEnd = query[i].lastIndexOf(" ");
+
+            String curQuery = query[i].substring(0, queryEnd);
+            int score = Integer.parseInt(query[i].substring(queryEnd+1));
+
+            if(!queries.containsKey(curQuery)){
+                ans.add(0);
+                continue;
+            }
+
+            ArrayList<Integer> list = queries.get(curQuery);
+            int left = 0;
+            int right = list.size();
+            while(left < right){
+                int mid = (left + right) / 2;
+                if(list.get(mid) < score)
+                    left = mid + 1;
+                else
+                    right = mid;
+            }
+
+            int ret = list.size() - left;
+            ans.add(ret);
+        }
+
+        answer = new int[ans.size()];
+        for(int i=0; i<ans.size(); i++)
+            answer[i] = ans.get(i);
+
+        return answer;
+    }
+
+    static void addQuery(String lang, String job, String career, String food, int score){
+        String[] langs = {lang, "-"};
+        String[] jobs = {job, "-"};
+        String[] careers = {career, "-"};
+        String[] foods = {food, "-"};
+
+        for(String l : langs){
+            for(String j : jobs){
+                for(String c : careers){
+                    for(String f : foods){
+                        ArrayList<Integer> list = null;
+                        String query = l + " and " + j + " and " + c + " and " + f;
+                        if(!queries.containsKey(query))
+                            queries.put(query, new ArrayList<>());
+                        list = queries.get(query);
+                        list.add(score);
+                    }
+                }
+            }
+        }
+    }
+
+    public static void main(String[] args) {
+        Solution s = new Solution();
+        int[] ans = s.solution(new String[]{"java backend junior pizza 150", "python frontend senior chicken 210", "python frontend senior chicken 150", "cpp backend senior pizza 260", "java backend junior chicken 80", "python backend senior chicken 50"},
+                new String[]{"java and backend and junior and pizza 100", "python and frontend and senior and chicken 200", "cpp and - and senior and pizza 250", "- and backend and senior and - 150", "- and - and - and chicken 100", "- and - and - and - 150"});
+        for (int num : ans)
+            System.out.print(num + " ");
+    }
+}
+```
+</div>
+</details>
