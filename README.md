@@ -66,6 +66,7 @@
 
 <details>
   <summary>1~20주차 문제 보기</summary>
+
   |                     |                              월                              |                              화                              |                              수                              |                              목                              |                              금                              |
 | :-----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 1주차(08.10~08.14)  |     [구슬 탈출 2](https://www.acmicpc.net/problem/13460)     |     [2048 (Easy)](https://www.acmicpc.net/problem/12100)     |          [뱀](https://www.acmicpc.net/problem/3190)          |      [시험 감독](https://www.acmicpc.net/problem/13458)      |    [주사위 굴리기](https://www.acmicpc.net/problem/14499)    |
@@ -107,6 +108,7 @@
 | 26주차(02.01~02.05) |         [열쇠](https://www.acmicpc.net/problem/9328)         | [기지국설치](https://programmers.co.kr/learn/courses/30/lessons/12979) |     [로봇조종하기](https://www.acmicpc.net/problem/2169)     | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |     [책 나눠주기](https://www.acmicpc.net/problem/9576)      |
 | 27주차(02.08~02.12) | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |      [제곱ㄴㄴ수](https://www.acmicpc.net/problem/1016)      | [방문길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) |
 | 28주차(02.15~02.19) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) |       [돌던지기](https://www.acmicpc.net/problem/3025)       | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) |     [트리의 지름](https://www.acmicpc.net/problem/1967)      |
+| 29주차(02.22~02.26) | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) | [광고삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) |       [친구비](https://www.acmicpc.net/problem/16562)       | [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) |     [우수마을](https://www.acmicpc.net/problem/1949)      |
 <br>
 
 ### **모두 화이팅!!!**
