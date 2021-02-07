@@ -64,8 +64,9 @@
 >
 > 기타 등등 ...
 
-
-|                     |                              월                               |                              화                               |                              수                               |                              목                               |                              금                               |
+<details>
+  <summary>1~20주차 문제 보기</summary>
+  |                     |                              월                              |                              화                              |                              수                              |                              목                              |                              금                              |
 | :-----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 1주차(08.10~08.14)  |     [구슬 탈출 2](https://www.acmicpc.net/problem/13460)     |     [2048 (Easy)](https://www.acmicpc.net/problem/12100)     |          [뱀](https://www.acmicpc.net/problem/3190)          |      [시험 감독](https://www.acmicpc.net/problem/13458)      |    [주사위 굴리기](https://www.acmicpc.net/problem/14499)    |
 | 2주차(08.17~08.21)  |     [테트로미노](https://www.acmicpc.net/problem/14500)      |        [퇴사](https://www.acmicpc.net/problem/14501)         |       [연구소](https://www.acmicpc.net/problem/14502)        |     [로봇 청소기](https://www.acmicpc.net/problem/14503)     |   [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)   |
@@ -87,14 +88,25 @@
 | 18주차(12.07~12.11) | [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685) |
 | 19주차(12.14~12.18) | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | [N진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) |      [플로이드](https://www.acmicpc.net/problem/11404)       |    [휴게소 세우기](https://www.acmicpc.net/problem/1477)     |    [중앙값 구하기](https://www.acmicpc.net/problem/2696)     |
 | 20주차(12.21~12.25) | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) | [호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063) | [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) | [카카오 프렌즈 컬러링 북](https://programmers.co.kr/learn/courses/30/lessons/1829) |
+</details>
+
+
+
+
+
+
+
+
+|                     |                              월                              |                              화                              |                              수                              |                              목                              |                              금                              |
+| :-----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 21주차(12.28~01.01) |    [구간 합 구하기](https://www.acmicpc.net/problem/2042)    |       [토너먼트](https://www.acmicpc.net/problem/1057)       |   [최솟값과 최댓값](https://www.acmicpc.net/problem/2357)    |   [팰린드롬 만들기](https://www.acmicpc.net/problem/1254)    |      [연구소 2](https://www.acmicpc.net/problem/17141)       |
 | 22주차(01.04~01.08) |        [회문](https://www.acmicpc.net/problem/17609)         |       [최솟값](https://www.acmicpc.net/problem/10868)        |      [설탕 배달](https://www.acmicpc.net/problem/2839)       |   [구간 곱 구하기](https://www.acmicpc.net/problem/11505)    |      [1로 만들기](https://www.acmicpc.net/problem/1463)      |
 | 23주차(01.11~01.15) |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |    [피보나치 함수](https://www.acmicpc.net/problem/1003)     |     [숨바꼭질 2](https://www.acmicpc.net/problem/12851)      |     [2×n 타일링](https://www.acmicpc.net/problem/11726)      |      [이모티콘](https://www.acmicpc.net/problem/14226)       |
-| 24주차(01.18~01.22) |    [123 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)    |    [용액](https://www.acmicpc.net/problem/2467)     |     [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)      |     [RGB거리](https://www.acmicpc.net/problem/1149)      |      [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)       |
-| 25주차(01.25~01.29) |    [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)    |    [최단경로](https://www.acmicpc.net/problem/1753)     |     [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)      |     [LCS](https://www.acmicpc.net/problem/9251)      |      [랜선 자르기](https://www.acmicpc.net/problem/1654)       |
-| 26주차(02.01~02.05) |    [열쇠](https://www.acmicpc.net/problem/9328)    |    [기지국설치](https://programmers.co.kr/learn/courses/30/lessons/12979)     |     [로봇조종하기](https://www.acmicpc.net/problem/2169)      |     [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)      |      [책 나눠주기](https://www.acmicpc.net/problem/9576)       |
-| 27주차(02.08~02.12) |    [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)    |    [제곱ㄴㄴ수](https://www.acmicpc.net/problem/1016)     |     [방문길이](https://programmers.co.kr/learn/courses/30/lessons/49994)      |     [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)      |      [배달](https://programmers.co.kr/learn/courses/30/lessons/12978)       |
-| 28주차(02.15~02.19) |    [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)    |    [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412)     |     [돌던지기](https://www.acmicpc.net/problem/3025)      |     [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)      |      [트리의 지름](https://www.acmicpc.net/problem/1967)       |
+| 24주차(01.18~01.22) | [123 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) |         [용액](https://www.acmicpc.net/problem/2467)         | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |       [RGB거리](https://www.acmicpc.net/problem/1149)        | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |
+| 25주차(01.25~01.29) | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) |       [최단경로](https://www.acmicpc.net/problem/1753)       | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) |         [LCS](https://www.acmicpc.net/problem/9251)          |     [랜선 자르기](https://www.acmicpc.net/problem/1654)      |
+| 26주차(02.01~02.05) |         [열쇠](https://www.acmicpc.net/problem/9328)         | [기지국설치](https://programmers.co.kr/learn/courses/30/lessons/12979) |     [로봇조종하기](https://www.acmicpc.net/problem/2169)     | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |     [책 나눠주기](https://www.acmicpc.net/problem/9576)      |
+| 27주차(02.08~02.12) | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |      [제곱ㄴㄴ수](https://www.acmicpc.net/problem/1016)      | [방문길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) |
+| 28주차(02.15~02.19) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) |       [돌던지기](https://www.acmicpc.net/problem/3025)       | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) |     [트리의 지름](https://www.acmicpc.net/problem/1967)      |
 <br>
 
 ### **모두 화이팅!!!**
