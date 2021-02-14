@@ -109,6 +109,7 @@
 | 27주차(02.08~02.12) | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |      [제곱ㄴㄴ수](https://www.acmicpc.net/problem/1016)      | [방문길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) |
 | 28주차(02.15~02.19) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) |       [돌던지기](https://www.acmicpc.net/problem/3025)       | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) |     [트리의 지름](https://www.acmicpc.net/problem/1967)      |
 | 29주차(02.22~02.26) | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) | [광고삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) |       [친구비](https://www.acmicpc.net/problem/16562)       | [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) |     [우수마을](https://www.acmicpc.net/problem/1949)      |
+| 30주차(03.01~03.05) | [팰린드롬?](https://www.acmicpc.net/problem/10942) | [매출 하락 최소화](https://programmers.co.kr/learn/courses/30/lessons/72416) |       [탈옥](https://www.acmicpc.net/problem/9376)       | [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738) |     [줄세우기](https://www.acmicpc.net/problem/2252)      |
 <br>
 
 ### **모두 화이팅!!!**
