@@ -112,4 +112,4 @@
 | 30주차(03.01~03.05) | [팰린드롬?](https://www.acmicpc.net/problem/10942) | [매출 하락 최소화](https://programmers.co.kr/learn/courses/30/lessons/72416) |       [탈옥](https://www.acmicpc.net/problem/9376)       | [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738) |     [줄세우기](https://www.acmicpc.net/problem/2252)      |
 <br>
 
-### **모두 화이팅!!!**
+### **모두 화이팅!!!!!!**
